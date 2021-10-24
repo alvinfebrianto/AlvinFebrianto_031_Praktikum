@@ -4,11 +4,11 @@
 using namespace std;
 
 int main() {
-	int a, b, c, i, n, jumlah;
+    int a, b, c, i, n, jumlah;
 	
-	cout << " Program Menghitung Jumlah Deret Bilangan\n\n";
+    cout << " Program Menghitung Jumlah Deret Bilangan\n\n";
     
-	cout << " Masukkan bilangan awal: "; cin >> a;
+    cout << " Masukkan bilangan awal: "; cin >> a;
     cout << " Masukkan selisih: "; cin >> b;
     cout << " Masukkan deret ke-n: "; cin >> n;
     cout << "\n Deret ke-" << n << ": ";
