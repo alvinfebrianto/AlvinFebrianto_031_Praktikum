@@ -35,7 +35,7 @@ int main() {
 	total_upah = jam_kerja*upah_per_jam;
 	
 	if ((jam_kerja-48)>0) {
-		total_upah = total_upah+((jam_kerja-48)*4000);
+	     total_upah = total_upah+((jam_kerja-48)*4000);
 	}
 	
 	cout << " " << nama << " menerima upah Rp." << total_upah << " per minggu";
