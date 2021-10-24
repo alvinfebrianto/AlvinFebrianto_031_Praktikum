@@ -8,7 +8,7 @@ int main() {
  
     cout << " Tarif Rp. 5000 per 1 jam\n\n";
     cout << " Nama Pengguna: ";
-	getline(cin, nama);
+    getline(cin, nama);
     cout << " Durasi Bermain\n";
     cout << " Berapa Jam: ";
     cin >> jam;
