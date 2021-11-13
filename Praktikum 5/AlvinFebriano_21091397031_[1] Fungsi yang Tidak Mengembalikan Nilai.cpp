@@ -5,7 +5,7 @@
 #include <conio.h>
 #include <stdio.h>
 
-void garis();									// deklarasi fungsi
+void garis();						// deklarasi fungsi
 main() {
 	system("cls");
 	garis();
@@ -15,6 +15,6 @@ main() {
 	getch();
 }
 
-void garis() {									// definisi fungsi
+void garis() {						// definisi fungsi
 	printf("========================== \n");
 }
