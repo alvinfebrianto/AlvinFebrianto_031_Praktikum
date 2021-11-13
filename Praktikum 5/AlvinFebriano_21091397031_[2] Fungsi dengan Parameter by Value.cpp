@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-void tukar(int x, int y);							// deklarasi fungsi
+void tukar(int x, int y);				// deklarasi fungsi
 main() {
 	int a,b;
 	
@@ -24,7 +24,7 @@ main() {
 	getch();
 }
 
-void tukar(int px, int py) {						// definisi fungsi
+void tukar(int px, int py) {				// definisi fungsi
 	int z;
 	
 	z=px;
